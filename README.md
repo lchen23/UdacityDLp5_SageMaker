@@ -1,2 +1,2 @@
 # UdacityDLp5_SageMaker
-This project uses the AWS SageMaker cloud ML service to train and deploy a sentiment analysis deep learning model
+This project uses the AWS SageMaker cloud ML service to train and deploy a deep learning model for sentiment analysis of IMDB movie reviews. The data is downloaded from here[http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz]. The step-by-step explanations of how to do data pre-processing, model definition, training and model deployment in AWS were described in detail in the Jupyter notebook.
